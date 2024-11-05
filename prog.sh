@@ -1,4 +1,3 @@
-prog.sh
 #!/bin/bash
 function File {
     # think you are inside the file
